@@ -2,3 +2,6 @@ streamlit
 langchain
 langchain-community
 neo4j
+pandas
+altair
+spacy

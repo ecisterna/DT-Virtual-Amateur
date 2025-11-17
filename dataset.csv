@@ -1,0 +1,169 @@
+explicacion,categoria
+"Se mantiene por alto aporte de progresión y pase seguro.",Rendimiento_Positivo
+"Riesgo en salida y pocas coberturas con rival intenso: sugerir sustitución.",Razón_Defensiva
+"Genera poco en ataque y sus pases no tienen intención ofensiva.",Razón_Ofensiva
+"Muchas pérdidas en zonas de riesgo que comprometen al equipo.",Errores_Clave
+"Gana duelos importantes en defensa y realiza coberturas clave.",Rendimiento_Positivo
+"Aporta con presión efectiva pero no logra conectar con los delanteros.",Razón_Ofensiva
+"Pérdidas de balón constantes en salida desde la defensa.",Errores_Clave
+"Sufre en los duelos y tiene pocas coberturas defensivas.",Razón_Defensiva
+"Excelente visión de juego y pases que rompen líneas.",Rendimiento_Positivo
+"No participa en la construcción del juego ofensivo.",Razón_Ofensiva
+"Un error en el mediocampo generó una clara ocasión del rival.",Errores_Clave
+"Superado constantemente por el extremo rival en el uno contra uno.",Razón_Defensiva
+"Acierto de pases del 90% y alta participación en el juego.",Rendimiento_Positivo
+"Poca movilidad sin balón, no ofrece opciones de pase en ataque.",Razón_Ofensiva
+"Mal control que resulta en una pérdida peligrosa cerca del área propia.",Errores_Clave
+"Llega tarde a las coberturas y deja espacios en la defensa.",Razón_Defensiva
+"Clave en la recuperación de balones en el mediocampo.",Rendimiento_Positivo
+"Sus centros al área no encuentran destinatario.",Razón_Ofensiva
+"Una entrega fallida al portero casi cuesta un gol.",Errores_Clave
+"No sigue a su marca en las jugadas a balón parado.",Razón_Defensiva
+"Alta efectividad en duelos aéreos y despejes.",Rendimiento_Positivo
+"No intenta desbordar ni encarar a los defensores.",Razón_Ofensiva
+"Regala un tiro de esquina por una mala decisión bajo presión.",Errores_Clave
+"Permite que el rival reciba con comodidad en su zona.",Razón_Defensiva
+"Lidera la presión alta del equipo forzando errores del rival.",Rendimiento_Positivo
+"Impreciso en el último pase, frustrando jugadas de ataque.",Razón_Ofensiva
+"Pérdida en el último cuarto de cancha que inicia un contraataque rival.",Errores_Clave
+"Mala colocación, rompe la línea del fuera de juego.",Razón_Defensiva
+"Aporta llegada al área y genera ocasiones de gol.",Rendimiento_Positivo
+"Casi no pisa el área rival, nula contribución ofensiva.",Razón_Ofensiva
+"Falta innecesaria al borde del área que concede una oportunidad peligrosa.",Errores_Clave
+"No cierra su banda, permitiendo centros fáciles del oponente.",Razón_Defensiva
+"Seguro en la posesión y distribuye bien el balón.",Rendimiento_Positivo
+"Retiene demasiado el balón y ralentiza el ataque.",Razón_Ofensiva
+"Se equivoca en un pase simple que corta un ataque prometedor.",Errores_Clave
+"Falla en la marca personal en el área chica.",Razón_Defensiva
+"Completa con éxito la mayoría de sus regates.",Rendimiento_Positivo
+"Sus remates a portería son débiles y sin dirección.",Razón_Ofensiva
+"Una pérdida evitable en el centro del campo desequilibra al equipo.",Errores_Clave
+"Comete faltas recurrentes en zonas defensivas comprometidas.",Razón_Defensiva
+"Recupera y sale jugando con criterio desde atrás.",Rendimiento_Positivo
+"Toma malas decisiones en el tercio final del campo.",Razón_Ofensiva
+"Un despeje defectuoso deja el balón muerto para el delantero rival.",Errores_Clave
+"Pierde la posición con facilidad cuando el rival ataca.",Razón_Defensiva
+"Maneja bien los tiempos del partido y controla el mediocampo.",Rendimiento_Positivo
+"No genera superioridad numérica en las bandas.",Razón_Ofensiva
+"Error de concentración que permite al rival anticiparse.",Errores_Clave
+"Muy pasivo en la marca, no presiona al poseedor del balón.",Razón_Defensiva
+"Sólido en la marca y anticipa las jugadas del rival.",Rendimiento_Positivo
+"Poca creatividad para generar juego en la zona de ataque.",Razón_Ofensiva
+"Se confía en la salida y pierde el balón ante la presión.",Errores_Clave
+"No realiza ayudas defensivas a sus compañeros.",Razón_Defensiva
+"Acierto elevado en pases largos y cambios de frente.",Rendimiento_Positivo
+"No aprovecha los espacios para correr a la espalda de la defensa.",Razón_Ofensiva
+"Un mal pase hacia atrás compromete a toda la defensa.",Errores_Clave
+"No gana la segunda jugada en su sector.",Razón_Defensiva
+"Aporta equilibrio al equipo con su trabajo defensivo y ofensivo.",Rendimiento_Positivo
+"Incapaz de superar a su marcador en velocidad.",Razón_Ofensiva
+"Intenta un regate innecesario y pierde la posesión en zona defensiva.",Errores_Clave
+"Deja un hueco en la barrera que el rival aprovecha.",Razón_Defensiva
+"Participa activamente en la elaboración de todas las jugadas.",Rendimiento_Positivo
+"Sus movimientos son predecibles para la defensa rival.",Razón_Ofensiva
+"Una pérdida en campo propio genera un dos contra uno.",Errores_Clave
+"No cierra el segundo palo en los centros laterales.",Razón_Defensiva
+"Inteligente tácticamente, siempre bien posicionado.",Rendimiento_Positivo
+"No ofrece desmarques de ruptura, juega siempre al pie.",Razón_Ofensiva
+"Se duerme en una transición y es superado fácilmente.",Errores_Clave
+"Falla en el tackle y queda fuera de la jugada.",Razón_Defensiva
+"Genera faltas a favor en campo contrario.",Rendimiento_Positivo
+"Le falta agresividad para atacar la portería rival.",Razón_Ofensiva
+"Un error técnico simple causa la pérdida del balón.",Errores_Clave
+"No es contundente en el despeje dentro de su área.",Razón_Defensiva
+"Buen rendimiento físico durante todo el partido.",Rendimiento_Positivo
+"No finaliza las jugadas, duda entre pasar o disparar.",Razón_Ofensiva
+"Pierde el balón al intentar un lujo innecesario.",Errores_Clave
+"No acompaña la jugada defensiva hasta el final.",Razón_Defensiva
+"Aporta solidez y seguridad a la línea defensiva.",Rendimiento_Positivo
+"Escasa participación en el juego colectivo de ataque.",Razón_Ofensiva
+"Pase arriesgado e interceptado en el inicio de la jugada.",Errores_Clave
+"No sabe cómo perfilarse para defender correctamente.",Razón_Defensiva
+"Su presión constante obliga al rival a jugar en largo.",Rendimiento_Positivo
+"No busca asociarse con sus compañeros en ataque.",Razón_Ofensiva
+"Control largo que entrega el balón al adversario.",Errores_Clave
+"Es superado en fuerza en las disputas de balón.",Razón_Defensiva
+"Ofrece soluciones de pase a sus compañeros bajo presión.",Rendimiento_Positivo
+"No tiene remate de media distancia.",Razón_Ofensiva
+"Mala entrega en un contraataque claro.",Errores_Clave
+"Falta de comunicación con sus compañeros de defensa.",Razón_Defensiva
+"Siempre elige la opción de pase correcta.",Rendimiento_Positivo
+"No genera peligro a balón parado.",Razón_Ofensiva
+"Pierde un balón dividido por falta de intensidad.",Errores_Clave
+"Concede muchos metros al atacante rival.",Razón_Defensiva
+"Muestra gran despliegue físico para cubrir el campo.",Rendimiento_Positivo
+"Abusa del juego horizontal sin buscar profundidad.",Razón_Ofensiva
+"Pase a un compañero que estaba de espaldas y marcado.",Errores_Clave
+"Reacciona tarde a los desmarques del delantero.",Razón_Defensiva
+"Intercepta pases clave del equipo contrario.",Rendimiento_Positivo
+"No tiene capacidad para el uno contra uno ofensivo.",Razón_Ofensiva
+"Un resbalón inoportuno regala la posesión al rival.",Errores_Clave
+"No anticipa la jugada y siempre llega tarde a la presión.",Razón_Defensiva
+"Aporta calma y criterio en la salida de balón.",Rendimiento_Positivo
+"Sus decisiones ofensivas son casi siempre erróneas.",Razón_Ofensiva
+"Pérdida por no proteger bien el balón de espaldas.",Errores_Clave
+"No sabe cerrar los espacios interiores en defensa.",Razón_Defensiva
+"Convierte jugadas simples en oportunidades de ataque.",Rendimiento_Positivo
+"Nunca busca el pase filtrado, juega a lo seguro.",Razón_Ofensiva
+"Error en la recepción que detiene un avance del equipo.",Errores_Clave
+"Es propenso a ser superado con un simple cambio de ritmo.",Razón_Defensiva
+"Sacrificio constante en tareas defensivas aunque sea delantero.",Rendimiento_Positivo
+"No genera faltas cerca del área rival.",Razón_Ofensiva
+"Pérdida por intentar un pase de tacón sin sentido.",Errores_Clave
+"No gana la línea de fondo para centrar.",Razón_Defensiva
+"Su presencia en el campo mejora el rendimiento colectivo.",Rendimiento_Positivo
+"No aporta variantes al ataque del equipo.",Razón_Ofensiva
+"Conducción excesiva que termina en pérdida.",Errores_Clave
+"Falla en la basculación defensiva, dejando el equipo descompensado.",Razón_Defensiva
+"Es el eje del equipo, todo el juego pasa por él.",Rendimiento_Positivo
+"Se esconde detrás de los rivales, no pide el balón.",Razón_Ofensiva
+"Un mal control orientado le regala el balón al contrario.",Errores_Clave
+"No temporiza la jugada, se precipita al intentar robar.",Razón_Defensiva
+"Dominio absoluto de su zona de influencia.",Rendimiento_Positivo
+"Le cuesta girarse y encarar hacia la portería rival.",Razón_Ofensiva
+"Pérdida por un pase sin tensión al compañero.",Errores_Clave
+"Permite que le ganen la espalda con facilidad.",Razón_Defensiva
+"Realiza coberturas efectivas al lateral de su banda.",Rendimiento_Positivo
+"No tiene desmarque, es un jugador estático.",Razón_Ofensiva
+"Intenta salir jugando en una zona de máxima presión y pierde.",Errores_Clave
+"No mide bien en los saltos y pierde los duelos aéreos.",Razón_Defensiva
+"Aporta pausa y claridad cuando el equipo más lo necesita.",Rendimiento_Positivo
+"Sus pases son predecibles y fáciles de interceptar.",Razón_Ofensiva
+"Falla un gol claro debajo del arco.",Errores_Clave
+"No reduce la velocidad del rival en la transición defensiva.",Razón_Defensiva
+"Excelente lectura del juego para interceptar balones.",Rendimiento_Positivo
+"Nunca intenta un disparo desde fuera del área.",Razón_Ofensiva
+"Un error de cálculo al medir un pase largo.",Errores_Clave
+"No orienta al rival hacia la banda, deja que juegue por dentro.",Razón_Defensiva
+"Gran capacidad de asociación con los mediocampistas.",Rendimiento_Positivo
+"No tiene cambio de ritmo para desequilibrar.",Razón_Ofensiva
+"Pérdida por no levantar la cabeza antes de pasar.",Errores_Clave
+"No es agresivo en la marca, muy blando.",Razón_Defensiva
+"Acierta en el 95% de sus pases en campo propio.",Rendimiento_Positivo
+"Finaliza mal las jugadas de ataque.",Razón_Ofensiva
+"Pase de gol al rival por una confusión.",Errores_Clave
+"Se desentiende de la jugada tras ser superado.",Razón_Defensiva
+"Es un jugador clave en la estrategia del equipo.",Rendimiento_Positivo
+"No genera espacios para sus compañeros con sus movimientos.",Razón_Ofensiva
+"Un mal despeje que se convierte en asistencia para el rival.",Errores_Clave
+"Rompe la línea defensiva saliendo a presionar sin coordinación.",Razón_Defensiva
+"Aporta experiencia y liderazgo en momentos críticos.",Rendimiento_Positivo
+"Incapaz de retener el balón de espaldas a la portería.",Razón_Ofensiva
+"Error no forzado que regala un saque de banda en ataque.",Errores_Clave
+"No cierra el espacio entre el central y el lateral.",Razón_Defensiva
+"Juega fácil y a pocos toques, dando fluidez al juego.",Rendimiento_Positivo
+"Centros imprecisos que no llegan a buen puerto.",Razón_Ofensiva
+"Pérdida de balón por exceso de confianza.",Errores_Clave
+"Permite remates fáciles desde el borde del área.",Razón_Defensiva
+"Su rendimiento es consistente y fiable.",Rendimiento_Positivo
+"No tiene último pase.",Razón_Ofensiva
+"Un mal control de pecho que le regala el balón al oponente.",Errores_Clave
+"No es solidario en el esfuerzo defensivo.",Razón_Defensiva
+"Crea juego y distribuye con inteligencia.",Rendimiento_Positivo
+"Se precipita en la toma de decisiones ofensivas.",Razón_Ofensiva
+"Pase comprometido a un compañero que estaba presionado.",Errores_Clave
+"No sabe leer los movimientos del delantero.",Razón_Defensiva
+"Aporta mucho trabajo silencioso en el mediocampo.",Rendimiento_Positivo
+"No tiene gol, falla ocasiones claras.",Razón_Ofensiva
+"Pérdida ingenua que genera una oportunidad de gol para el rival.",Errores_Clave
+"No vuelve a su posición tras un ataque.",Razón_Defensiva
