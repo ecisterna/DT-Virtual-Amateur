@@ -1,0 +1,32 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Archivos de VS Code
+.vscode/
+*.code-workspace
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Scripts de verificación temporal (no son necesarios para el proyecto)
+check_db.py
+show_structure.py
+fix_relations.py
+fix_relations_v2.py
+recreate_db.py
+
+# Datos sensibles (si los hubiera)
+*.env
+.env
+
+# Logs
+*.log
