@@ -22,7 +22,7 @@ check_db.py
 show_structure.py
 fix_relations.py
 fix_relations_v2.py
-recreate_db.py
+# recreate_db.py - Este SÍ se sube porque es útil para tus compañeros
 
 # Datos sensibles (si los hubiera)
 *.env
